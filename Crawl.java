@@ -1,3 +1,10 @@
+/**
+ * LRsoft Corp.
+ * http://lrsoft.co.id
+ *
+ * Author : Zaf
+ */
+
 import java.util.List;
 
 public class Crawl {
